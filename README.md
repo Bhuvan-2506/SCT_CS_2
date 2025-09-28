@@ -1,25 +1,3 @@
-# 🔐 Cybersecurity Mini Projects
-
-This repository contains beginner-friendly cybersecurity tasks
-implemented in Python.\
-Each task focuses on fundamental concepts in **cryptography, system
-interaction, and data security**.
-
-------------------------------------------------------------------------
-
-## ✅ Task 01: Caesar Cipher
-
-A Python script that implements a classic Caesar Cipher
-encryption/decryption.
-
-### Run
-
-``` bash
-python caesar_cipher.py
-```
-
-------------------------------------------------------------------------
-
 ## ✅ Task 02: Simple Image Encryption Tool
 
 A Python script that implements a basic image cipher using the Pillow
